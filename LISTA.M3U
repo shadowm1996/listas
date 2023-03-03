@@ -41,3 +41,6 @@ http://181.129.250.45:9040/play/a0ka
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="General",Disney Channel
 http://181.129.250.45:9040/play/a0l0
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="General",Comedy Central
+http://181.129.250.45:9040/play/a0kt
