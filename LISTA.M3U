@@ -20,3 +20,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="General",El Garage TV
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="General",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
