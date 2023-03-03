@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png/640px-Telefe_%2528nuevo_logo%2529.png&sa=U&ved=0ahUKEwi_3ojq-5L5AhU5uJUCHRHkC4IQ5hMIBQ&usg=AOvVaw1vpC6XGqadvyHuZy4mKVJj" group-title="General",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/180px-C5N_2017_Alternate.svg.png" group-title="General",C5N
-https://manifest.googlevideo.com/api/manifest/dash/expire/1676929612/ei/7JXzY9OPIuyTobIPrpSjoAo/ip/181.47.21.127/id/sV6nLwr-txA.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMPOuaEITr8FWcnzithb7OZ012tsrZ8nQLR9Bpk0Sb2xAiEAk1vymG8EuHPwvcuS11TF03GRHXmIb2qUX4KauQ4vZJU%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676929612/ei/7JXzY9OPIuyTobIPrpSjoAo/ip/181.47.21.127/id/sV6nLwr-txA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPQmcl7mU4idKG8Pyr8Y-pB29t8wZ-QijjuTL6OhWrHMAiEAgct9PNUNs33PwTgAsxReQZMwDO9DFd_iS97dHIpHw2Q%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="General",A24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PAKA PAKA" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/320px-Paka-paka.svg.png" group-title="General",PAKAPAKA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w923747256.m3u8
@@ -16,4 +16,7 @@ https://g1.proy-slo.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_a
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="General",TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="General",El Garage TV
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
