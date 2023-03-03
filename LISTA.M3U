@@ -35,3 +35,6 @@ http://181.175.41.170:8000/play/a0gr
 
 #EXTINF:-1,tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png" group-title="General",Discovery H&H
 http://181.175.41.170:8000/play/a0g9
+
+#EXTINF:-1,tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="General",Cartoon Network
+http://181.129.250.45:9040/play/a0ka
