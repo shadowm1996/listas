@@ -44,3 +44,6 @@ http://181.129.250.45:9040/play/a0l0
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="General",Comedy Central
 http://181.129.250.45:9040/play/a0kt
+
+#EXTINF:-1,tvg-id="A&E HD"
+http://200.37.186.105:8000/play/a02m
