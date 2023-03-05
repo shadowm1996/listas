@@ -45,14 +45,14 @@ http://181.129.250.45:9040/play/a0l0
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="General",Comedy Central
 http://181.129.250.45:9040/play/a0kt
 
-#EXTINF:-1,tvg-id="A&E HD" tvg-name="A&E HD"
+#EXTINF:-1,tvg-id="A&E HD" tvg-name="A&E HD" group-title="General",A&E HD
 http://200.37.186.105:8000/play/a02m
 
-#EXTINF:-1,tvg-id="AXN HD" tvg-name="AXN HD"
+#EXTINF:-1,tvg-id="AXN HD" tvg-name="AXN HD" group-title="General",AXN HD
 http://200.37.186.105:8000/play/a02p
 
-#EXTINF:-1,tvg-id="Cinecanal" tvg-name="Cinecanal"
+#EXTINF:-1,tvg-id="Cinecanal" tvg-name="Cinecanal" group-title="General",Cinecanal HD
 http://200.37.186.105:8000/play/a08r
 
-#EXTINF:-1,tvg-id="History Channel HD" tvg-name="History Channel HD"
+#EXTINF:-1,tvg-id="History Channel HD" tvg-name="History Channel HD", group-title="General",History Channel HD
 http://200.31.4.14:8000/play/a09q
