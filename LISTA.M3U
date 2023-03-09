@@ -37,7 +37,7 @@ http://181.175.41.170:8000/play/a0gr
 http://181.175.41.170:8000/play/a0g9
 
 #EXTINF:-1,tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="General",Cartoon Network
-http://181.129.250.45:9040/play/a0ka
+http://201.244.106.58:8990/play/a01d
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="General",Disney Channel
 http://201.244.106.58:8990/play/a01r
