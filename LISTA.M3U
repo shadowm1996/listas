@@ -24,35 +24,4 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="General",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="General",Discovery Channel HD
-http://181.175.41.170:8000/play/a0gs
 
-#EXTINF:-1,tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="General",TNT HD
-http://181.175.41.170:8000/play/a0g7
-
-#EXTINF:-1,tvg-id="TNT Series HD" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="General",TNT Series HD
-http://181.175.41.170:8000/play/a0gr
-
-#EXTINF:-1,tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png" group-title="General",Discovery H&H
-http://181.175.41.170:8000/play/a0g9
-
-#EXTINF:-1,tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="General",Cartoon Network
-http://201.244.106.58:8990/play/a01d
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="General",Disney Channel
-http://201.244.106.58:8990/play/a01r
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="General",Comedy Central
-http://201.244.106.58:8990/play/a01j
-
-#EXTINF:-1,tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png"tvg-name="A&E HD" group-title="General",A&E HD
-http://200.37.186.105:8000/play/a02m
-
-#EXTINF:-1,tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="General",AXN HD
-http://200.37.186.105:8000/play/a02p
-
-#EXTINF:-1,tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="General",Cinecanal HD
-http://200.37.186.105:8000/play/a08r
-
-#EXTINF:-1,tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/100px-History_%282021%29.svg.png" group-title="General",History Channel HD
-http://200.31.4.14:8000/play/a09q
