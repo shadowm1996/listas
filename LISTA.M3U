@@ -98,3 +98,13 @@ https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 #EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
 https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TYC SPORTS AR
+https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ESPN AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
