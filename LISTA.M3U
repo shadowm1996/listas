@@ -10,7 +10,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Bics Extra", C5N
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 group-title="Bics Extra", LA NACION+ AR
 https://cotesma02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
