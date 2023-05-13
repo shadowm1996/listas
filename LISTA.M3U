@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png/640px-Telefe_%2528nuevo_logo%2529.png&sa=U&ved=0ahUKEwi_3ojq-5L5AhU5uJUCHRHkC4IQ5hMIBQ&usg=AOvVaw1vpC6XGqadvyHuZy4mKVJj" group-title="General",Telefe
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=796275211&_cdn_timestamp=1683980672&_cdn_token=bbea422a5549c9fcde1f70a9e3fd07336ae644b8
 
 #EXTINF:-1  group-title="Bics Extra", telefe alternativo
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -34,77 +34,56 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY H&H
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TRUTV
-https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
-https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
-https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK
-https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK JR 
-https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Claro-COL", Disney Channel
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" group-title="Claro-COL", Disney Jr
+http://190.131.228.59:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" group-title="Claro-COL", Nick Jr
+http://190.131.228.59:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Claro-COL", Nickelodeon
+http://190.131.228.59:8000/play/a03v/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", TOONCAST 
 https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1  group-title="Bics Extra", BABY TV
-https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CARTOONITO
-https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1  group-title="Bics Extra", A&E
-https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CINECANAL 
-https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT
-https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT SERIES
-https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1  group-title="Bics Extra", AXN
-https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SYFY
-https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FX
-https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SPACE
-https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1  group-title="Bics Extra", PARAMOUNT NETWORK
-https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SONY
-https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TBS
-https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
-#EXTINF:-1  group-title="Bics Extra", WARNER
-https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TCM
-https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY
-https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY 2
-http://tvstarlife.com:25461/live/geovany/geovany/158.m3u8
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY
-https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ISAT
-https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HTV
-https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", MTV
-https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", GOURMET
-https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1 group-title="Claro-COL", CARTOONITO FHD
+http://190.60.39.62:8000/play/98
+#EXTINF:-1  group-title="CABLE KINGS IPTV", A&E
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=469345
+#EXTINF:-1 tvg-id="CINECANALHD" group-title="Claro-COL", Cinecanal HD
+http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a0r2/index.m3u8
+#EXTINF:-1 tvg-id="TNTSERIESHD" group-title="Claro-COL", TNT Series HD
+http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", AXN
+http://190.60.39.62:8000/play/a048
+#EXTINF:-1 group-title="Claro-COL", SyFy
+http://190.60.39.62:8000/play/a09d
+#EXTINF:-1 tvg-id="FXHD" group-title="Claro-COL", FX HD
+http://190.131.228.59:8000/play/a0rk/index.m3u8
+#EXTINF:-1 tvg-id="Space" group-title="Claro-COL", Space
+http://190.131.228.59:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Paramount HD
+http://190.60.39.62:8000/play/a0b7
+#EXTINF:-1 group-title="Claro-COL", Sony
+http://190.60.39.62:8000/play/a047
+#EXTINF:-1 group-title="Claro-COL", TBS
+http://190.60.39.62:8000/play/a02l
+#EXTINF:-1 group-title="Claro-COL", Warner
+http://190.60.39.62:8000/play/a01r
+#EXTINF:-1 group-title="Claro-COL", Warner
+http://190.60.39.62:8000/play/a01r
+#EXTINF:-1 group-title="Claro-COL", History Channel
+http://190.60.39.62:8000/play/a00l
+#EXTINF:-1 group-title="Claro-COL", History Channel
+http://190.60.39.62:8000/play/a00l
+#EXTINF:-1 group-title="Claro-COL", Discovery Channel
+http://190.60.39.62:8000/play/a01p
+#EXTINF:-1 group-title="Claro-COL", I-Sat
+http://190.60.39.62:8000/play/a00o
+#EXTINF:-1 group-title="Claro-COL", MTV
+http://190.60.39.62:8000/play/a00p
 #EXTINF:-1  group-title="Bics Extra", DISCOVERY TURBO
-https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+http://190.60.39.62:8000/play/a04j
 #EXTINF:-1  group-title="Bics Extra", DISCOVERY WORLD
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TYC SPORTS AR
-https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+http://190.60.39.62:8000/play/a0b2
