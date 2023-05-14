@@ -12,8 +12,8 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title="Bics Extra", C5N
 https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
-#EXTINF:-1 group-title="Bics Extra", LA NACION+ AR
-https://cotesma02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 group-title="Bics Extra", TN AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png" group-title="General",El nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
@@ -28,7 +28,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="General",El Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="General",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
