@@ -4,7 +4,7 @@
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=796275211&_cdn_timestamp=1683980672&_cdn_token=bbea422a5549c9fcde1f70a9e3fd07336ae644b8
 
 #EXTINF:-1  group-title="Bics Extra", telefe alternativo
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="General",A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
