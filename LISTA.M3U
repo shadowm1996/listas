@@ -34,7 +34,7 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="General",TV Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="General",El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -44,3 +44,6 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Bics Extra", La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 group-title="Vorterix", Vorterix
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
