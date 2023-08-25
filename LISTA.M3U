@@ -12,6 +12,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 #EXTINF:-1  group-title="Bics Extra", telefe rosario
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
 
+#EXTINF:-1  group-title="Bics Extra", telefe cordoba
+https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+
 #EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="General",A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 
