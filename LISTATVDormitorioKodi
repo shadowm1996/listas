@@ -54,11 +54,11 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png"
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 
-#EXTINF:-1 group-title="Bics Extra" tvg-name="Cine AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/200px-Cine.Ar_logo.svg.png"
+#EXTINF:-1 tvg-id="Cine AR" tvg-name="Cine AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/200px-Cine.Ar_logo.svg.png"
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
-#EXTINF:-1 group-title="Bics Extra" tvg-name="MTV Biggest Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/150px-MTV-2021.svg.png"
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Biggest Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/150px-MTV-2021.svg.png"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
-#EXTINF:-1 group-title="Vorterix" tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg"
+#EXTINF:-1 tvg-id="Vorterix" tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg"
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
