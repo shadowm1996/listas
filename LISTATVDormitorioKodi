@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png/640px-Telefe_%2528nuevo_logo%2529.png&sa=U&ved=0ahUKEwi_3ojq-5L5AhU5uJUCHRHkC4IQ5hMIBQ&usg=AOvVaw1vpC6XGqadvyHuZy4mKVJj" group-title="General",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-id="TELEFE 2" tvg-name="Telefe" tvg-logo="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png/640px-Telefe_%2528nuevo_logo%2529.png&sa=U&ved=0ahUKEwi_3ojq-5L5AhU5uJUCHRHkC4IQ5hMIBQ&usg=AOvVaw1vpC6XGqadvyHuZy4mKVJj" group-title="General",Telefe Alternativo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
+
+
 #EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="General",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
